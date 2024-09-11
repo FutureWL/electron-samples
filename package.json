@@ -1,0 +1,14 @@
+{
+  "name": "electron-samples",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "main": "main.js",
+  "repository": "https://github.com/FutureWL/electron-samples.git",
+  "author": "Future. 魏来 <624263934@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.0.2"
+  }
+}
